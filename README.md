@@ -1,8 +1,7 @@
-Hi, I’m @Uncreative-creativity.
+# Hi, I’m @Uncreative-creativity.
 
-I’m interested in the front-end of web development. I am a uni student studying Psychology, but I'm learning web development on the side. 
+I am a Psychology graduate pursuing a career in web development.
 
-I'm currently learning the three main languages of front-end development: html, css, and javascript. I can create very basic (and not very aesthetically pleasing) websites, but I am
-constantly trying to improve and become more efficient at coding. In particular, I'm trying to work on making original, accesible, and well-designed pages. 
+I am refining my HTML, CSS, and JavaScript skills by developing projects for my portfolio. I am aiming to become familiar with the MERN stack before exploring other frameworks and tech stacks. Currently, I have some experience with MongoDB, Express, and NodeJS. I have yet to start learning React.
 
-Any tips or suggestions are always welcome.
+I have a personal blog (WIP) where I document my progress which you can check out [here](hasnainshafiq.com).
